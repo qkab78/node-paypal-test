@@ -1,0 +1,29 @@
+{
+  "name": "paypal-test",
+  "version": "1.0.0",
+  "description": "Paypal buying test with node",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "paypal-rest-sdk": "^1.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkab78/node-paypal-test.git"
+  },
+  "author": "Quentin Kabasele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qkab78/node-paypal-test/issues"
+  },
+  "homepage": "https://github.com/qkab78/node-paypal-test#readme"
+}
