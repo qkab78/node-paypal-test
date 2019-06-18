@@ -1,14 +1,11 @@
 # node-paypal-test
 
-
 Cette application est un template permettant d'utiliser le SDK de Paypal avec NodeJS.
 
 ## Lancer l'application
 
 > npm i
 > node server.js
-
-  
 
 ## Routes
 > Page d'accueil : http://localhost:5000/ | GET
